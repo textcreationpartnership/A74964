@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a minister in His Excellence his army, to a brother of his in London, by way of prevention to Mercurius Aulicus and his complices. Dated from my lord generalls quarter before Reading. April 18. 1643.</title>
+            <author>Bowles, Edward, 1613-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74964</idno>
+            <idno type="STC">Wing B3872A</idno>
+            <idno type="STC">Thomason E99_1</idno>
+            <idno type="STC">ESTC R10436</idno>
+            <idno type="EEBO-CITATION">99858839</idno>
+            <idno type="PROQUEST">99858839</idno>
+            <idno type="VID">155836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155836)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a minister in His Excellence his army, to a brother of his in London, by way of prevention to Mercurius Aulicus and his complices. Dated from my lord generalls quarter before Reading. April 18. 1643.</title>
+                  <author>Bowles, Edward, 1613-1662.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Rothwell, and S. Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 20. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: E. B. [i.e. Edward Bowles].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mercurius aulicus --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155836:1"/>
+            <pb n="1" facs="tcp:155836:1" rendition="simple:additions"/>
+            <p>A LETTER From a Miniſter in His Excellence His Army, To a Brother of his in LONDON, By way of prevention to <hi>MERCURIUS AULICUS</hi> and his Complices.</p>
+            <p>Dated from my Lord Generalls Quarter before READING. <hi>April</hi> 18. 1643.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Rothwell,</hi> and <hi>S. Gellibrand. April</hi> 20. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155836:2"/>
+            <pb n="3" facs="tcp:155836:2"/>
+            <head>A Letter from a Miniſter in the Army, to his Brother in LONDON.</head>
+            <opener>
+               <salute>Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know my friends are full of expectation, &amp; I am not un<g ref="char:EOLhyphen"/>willing to take a little pains to fatisfie them: But if they will not be ſatisfied with<g ref="char:EOLhyphen"/>out the ſtorming or taking the Town, they cannot yet be ſatisfied: if the truth will give any ſatisfaction, it is this: We march<g ref="char:EOLhyphen"/>ed from <hi>Windſor</hi> to <hi>Maydenhead,</hi> on Thurſday af<g ref="char:EOLhyphen"/>ter noon; from thence to <hi>Ockingham</hi> on Friday, and ſo to a place on the Weſt of <hi>Reading,</hi> a mile from the Town, where my Lord Generalls Quarters, at the houſe of one Sir <hi>Iohn Blach<g ref="char:EOLhyphen"/>grave,</hi> with the Souldiers in the fields about. On Saturday afternoon, toward night, we faced the Town: in the night Major Gen: went up with his Regiment, and a Work was made to plant Ordnance on, which began to play on Sunday
+<pb n="4" facs="tcp:155836:3"/>morning early, and battered the Fort and Works next them, which yet they diligently make up. On Sunday night Sir <hi>Iohn Meldrum</hi> commanded with his own Regiment, Sir <hi>William Cunstables,</hi> and Col: <hi>Barelayes,</hi> who went on with the Works. Laſt night Col: <hi>Langham</hi> commanded, having with him his own Regiment, my Lord Gene<g ref="char:EOLhyphen"/>ralls, and Colonell <hi>Hampdens;</hi> and the Works are now brought within leſſe then half a Mus<g ref="char:EOLhyphen"/>ket ſhot of the Town. It may be our friends at <hi>London</hi> expect we ſhould have ſtormed the Town, and entred it before this; but they may be miſtaken at that diſtance: they have in the Town about 3000 men, which they have a li<g ref="char:EOLhyphen"/>berty of drawing down to that part of the Town next us, in regard we have no Forces on the other ſide, my Lord <hi>Grey</hi> being not yet come to us, though we doubt not of him this night, or to morrow morning. We have had intelligence out of the Town, that ſay we have kill'd and hurt many of their men, notwithſtanding the advantage of their Works, Colonell <hi>Bolles,</hi> as is reported, for one; and that their Proviſion is ſcarce, but as yet it is not ſtopped, as were to be wiſhed; yet we have taken up <hi>Caveſham</hi> bridge, and left no way to them, but by Boat, or by <hi>Henley.</hi> We hear of ſome of the Kings Forces marching down on the other ſide the water to their relief, if it may be, I hope they will be prevented. At our firſt approach, our Proviſi<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:155836:3"/>was very ſcant, but I hope we ſhall now have it more plentifully; hungry dayes, and cold nights would have abated the courage of our Souldiers, were they not very hearty in the buſi<g ref="char:EOLhyphen"/>neſſe: Let our friends rather ſtrive to have their prayers for us warm as the day, then their cen<g ref="char:EOLhyphen"/>ſures ſharp as the night: If we be to blame, it was for coming hither, which yet muſt not be too ſoon; I know no miſcarriage ſince we came. Our loſſe hath been very little, conſidering our danger, working and lying ſo neer them; I think we have not loſt above 8 or 10 men in Service, two or three have been kill'd through curioſity, and ſome hurt by accident, as ſome of Sir <hi>Iohn Meldrums</hi> Regiment yeſterday, by blowing up Powder, and this morning three or four ſlain, and ſome were hurt by the breaking of a Car<g ref="char:EOLhyphen"/>riage by ſome Powder fired about through im<g ref="char:EOLhyphen"/>providence. Sir <hi>Anthony Saint-John,</hi> a Captain of my Lord Generalls Regiment hurt by it; it was reported Major <hi>Ingolſly</hi> was ſlain, and Liev<g ref="char:EOLhyphen"/>tenant Colonell <hi>Barriff</hi> hurt, but no ſuch mat<g ref="char:EOLhyphen"/>ter: We have loſt no Officer ſince our ſitting down, but one Lievtenant <hi>Price,</hi> of the Major Generalls Regiment. Though our work be hard, yet our Souldiers are hearty; but it muſt not be expected they ſhould overcome impoſſi<g ref="char:EOLhyphen"/>bilities, ſo as by a bare aſſault to get over Palli<g ref="char:EOLhyphen"/>ſadoes, Ditches very deep, and Breſt-Works. They have in Town ten ſmall Braſſe Pieces, two
+<pb n="6" facs="tcp:155836:4"/>bigger of Iron, three Troops of Horſe. As we have not aſſaulted, ſo neither they ſallyed forth to do any thing worth the naming. Take heed your deſires of ſtorming be not too ſoon fulfil<g ref="char:EOLhyphen"/>led; if it be not done with all circumſpection, it will not onely loſe many lives, but endanger the whole Army and Kingdom, for ought I know: Adde therefore to your faith patience; we could be as willing to change our Quarters, as you to have us; Me thinks you ſhould be preparing a ſupply, to further the beſt, and to prevent the worſt. I thought fit to write this, not onely for your own ſatisfaction, but to prevent <hi>Mercurius Aulicus,</hi> who I doubt not will tell you ſtrange ſtories ſhortly. This may ſerve as a battery upon the refuge of lies, which is our enemies ſtrong retreat; as ſome out of the Town tell us, they encourage their Souldiers by telling them our Ordnance are broke, their ſupplies at hand, they ſee our men fall in great numbers. This night Major Gen: commands in the approaches, his own Regiment; my Lord <hi>Roberts,</hi> and Col: <hi>Hobornes,</hi> with three Regiments more, as a reſerve to them, which is the conſtant courſe: It may be the difference of my profeſſion may make me miſſe in terms and circumſtances; but you may take this for the ſubſtance and truth of our con<g ref="char:EOLhyphen"/>dition. Onely I may further adde, for I ſhall not conceal any thing, though to our diſadvan<g ref="char:EOLhyphen"/>tage, That there is a Supply of ſtrength come
+<pb n="7" facs="tcp:155836:4"/>into <hi>Reading</hi> this morning, ſome Muskettiers un<g ref="char:EOLhyphen"/>der the Conduct of Sir <hi>Lewis Dyve,</hi> as I hear, who have ſo much confidence, as to bring their Ladies to this Muſick; I hope to no other purpoſe then to make our Victory the more conſiderable. I forbear to adde further for the preſent, but that which I need not beg, your prayers.</p>
+            <closer>So I rest, <signed>E. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
